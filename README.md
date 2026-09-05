@@ -4,26 +4,7 @@ An interactive Power BI dashboard built to analyze UPI transaction
 activity across different cities, banks, payment methods, transaction
 types, customer demographics, and months.
 
-## Dashboard Preview
 
-### Page 1 --- Transactions by Month
-
-```{=html}
-<p align="center">
-```
-`<img src="Screenshots/1.png" alt="UPI Transaction Analysis Dashboard - Page 1" width="900">`{=html}
-```{=html}
-</p>
-```
-### Page 2 --- Monthly Transaction Matrix
-
-```{=html}
-<p align="center">
-```
-`<img src="Screenshots/2.png" alt="UPI Transaction Analysis Dashboard - Page 2" width="900">`{=html}
-```{=html}
-</p>
-```
 ## Project Overview
 
 This project uses an Excel dataset containing **20,000 UPI transaction
@@ -131,14 +112,6 @@ UPI Transaction Analysis Dashboard/
     ├── 1.png
     └── 2.png
 ```
-
-## What I Learned
-
-Through this project, I practiced taking raw transaction data from Excel
-and turning it into an interactive Power BI dashboard.
-
-The main focus was on data profiling, report design, interactive
-filtering, slicer synchronization, bookmarks, conditional formatting,
 and presenting information through multiple visualizations.
 
 This project is part of my Power BI learning journey. My next step is to
