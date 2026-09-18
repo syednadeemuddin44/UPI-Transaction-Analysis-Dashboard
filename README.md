@@ -74,26 +74,6 @@ Some of the main fields include:
 -   Slicer synchronization
 -   Power BI Service
 
-## Learning Reference
-
-This project was created while following a structured Power BI course.
-The lessons used for this project covered:
-
-1.  Loading Data into Power BI Desktop
-2.  Data Profiling
-3.  Sizing and Positioning Slicers
-4.  Formatting Slicers
-5.  Adding a Page and Age Group Column
-6.  Adding a Line Chart
-7.  Adding a Matrix Visual
-8.  Syncing Slicers and Applying Conditional Formatting
-9.  Adding Bookmarks for Transactions
-10. Adding Bookmarks for Remaining Balance
-11. Publishing the Report to Power BI Service
-
-The project gave me hands-on practice with building an interactive Power
-BI report and understanding how different Power BI features work
-together.
 
 ## Project Structure
 
